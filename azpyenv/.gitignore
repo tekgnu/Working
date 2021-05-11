@@ -3,6 +3,9 @@
 # Account.ini is used for capturing any account information
 accounts.ini
 
+
+# Build sections
 pyvenv.cfg
 Lib/site-packages/
 Scripts/
+Include/
