@@ -1,1 +1,4 @@
-﻿azure-mgmt-storage
+﻿azure-identity
+azure-mgmt-resource
+azure-mgmt-storage
+azure-storage-blob
