@@ -2,3 +2,5 @@
 
 # Account.ini is used for capturing any account information
 accounts.ini
+Lib/site-packages/
+Scripts/
