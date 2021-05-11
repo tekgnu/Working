@@ -1,7 +1,8 @@
 ﻿### This file just tracks what not to synchronize in the repo
 
-# Account.ini is used for capturing any account information
-accounts.ini
+# Account.cfg is used for capturing any account information
+accounts.cfg
+
 
 
 # Build sections
