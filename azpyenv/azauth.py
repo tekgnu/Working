@@ -14,7 +14,7 @@ parser['Resources'] = {}
 parser['Resources']['ResourceGroup'] = 'rg-deve1py001'
 parser['Resources']['Location'] ='eastus'
 
-with open('accounts.cfg', 'w') as configfile:
+with open('Accounts.cfg', 'w') as configfile:
     parser.write(configfile)
 
 
