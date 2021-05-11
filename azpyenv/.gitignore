@@ -1,0 +1,4 @@
+﻿### This file just tracks what not to synchronize in the repo
+
+# Account.ini is used for capturing any account information
+account.ini
